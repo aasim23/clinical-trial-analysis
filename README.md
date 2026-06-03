@@ -1,5 +1,7 @@
 Clinical Trial Data Analysis – Heart Disease Study
 
+(https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci/data)
+
 This project is based on analysing a clinical-style dataset to understand factors that may be linked to heart disease. The idea behind the project was to take a real dataset, clean it, explore it properly, and then apply some basic statistical methods to see if there are any meaningful patterns.
 
 The dataset used contains information on over 1000 patients, including age, cholesterol levels, blood pressure, and other clinical attributes. It also includes a target variable indicating whether a patient has heart disease or not.
